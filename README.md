@@ -1,4 +1,4 @@
-# Taxman9000
+# Robinhood-Sprintax-1099B-automator
 Improving sprintax's shit implementation of 1099-B reporting. Especially useful if you are an international and use RobinHood and recieved a consolidated 1099.
 
 
